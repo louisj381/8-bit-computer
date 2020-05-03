@@ -1,4 +1,5 @@
-Ben Eater created the code within this repository. This code is used in conjunction with circuits and breadboard that I created to build an 8-bit computer.
+Ben Eater created the code within this repository. This code is used in conjunction with circuits I built on breadboards for my 8-bit computer.
+(demo/8-bit-computer.jpg)
 # Arduino EEPROM programmer
 
 Copyright 2017 Ben Eater
